@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'FlurryAds'
-    s.version = '4.2.3'
+    s.version = '4.3.0'
     s.license = 'Commercial'
     s.summary = 'Flurry AppSpot'
     s.homepage = 'http://flurry.com/'
